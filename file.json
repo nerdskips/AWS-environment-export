@@ -1,0 +1,5 @@
+{
+    "ContainerFormat": "ova",
+    "DiskImageFormat": "VMDK",
+    "S3Bucket": "ec2-images-vmware"
+}
